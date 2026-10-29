@@ -1,0 +1,18 @@
+# OS & Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node / Build
+node_modules/
+
+# Temporary / FFmpeg artifacts
+*.mp4
+*.part
+*.log
+*.mbtree
+
