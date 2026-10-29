@@ -1,6 +1,7 @@
 /**
  * @name VideoFit - Beta
- * @author mr.meda01
+ * @author Meda
+ * @authorLink https://github.com/medazero01-art
  * @description Adds a "Compress / Split" button to Discord's "file is too powerful" modal. Videos are re-encoded locally using ffmpeg (2-pass compression, or split into parts if compression is insufficient), then attached to the message. Windows only.
  * @version 0.2.1
  */
