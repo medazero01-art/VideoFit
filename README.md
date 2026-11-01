@@ -64,6 +64,12 @@ BetterDiscord plugins run in a restricted context that does not expose Node's `c
 
 ---
 
+## 👤 Author
+
+**Ayoub Touat** · [@medazero01-art](https://github.com/medazero01-art)
+
+---
+
 ## 📄 License
 
 Distributed under the [MIT License](./LICENSE).
